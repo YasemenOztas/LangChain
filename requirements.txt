@@ -1,0 +1,4 @@
+crewai==1.15.22
+crewai-tools==1.15.22
+python-dotenv==1.2.3
+rich==14.3.4

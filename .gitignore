@@ -1,0 +1,22 @@
+# Gerçek API anahtarları — repoya GİRMESİN
+.env
+
+# Python sanal ortam
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Çıktı dosyaları ve raporlar
+tubitak_degerlendirme_raporu*.md
+raporlar/
+oturumlar/
+
+# IDE / OS
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
